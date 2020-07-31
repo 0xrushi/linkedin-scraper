@@ -124,7 +124,7 @@ from Jan 2019 – Present.
 
 ## Drawbacks
 
-I'm not sure if linkedin woud allow doing such things, they might have obfuscated code like Facebook. i.e. fakebook's source code changes every time we open it. But I tried for 4-5 times, it didn't change for me yet. Unfortunately I don't have linkedin premium yet so currently I'm not able to parse it further. 
+I'm not sure if linkedin woud allow doing such things, they might have obfuscated code like Facebook. i.e. Facebook's source code changes every time we open it. But I tried for 4-5 times, it didn't change for me yet. Unfortunately I don't have linkedin premium yet so currently I'm not able to parse it further. 
 
 I have attached a rough draft of the code, I'm looking forward to work on this further.
 
